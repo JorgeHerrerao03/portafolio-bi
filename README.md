@@ -26,7 +26,7 @@ Portafolio de dashboards interactivos desarrollados con Power BI, orientados al 
 - Gestión de cotizaciones y emisión de pólizas de salud.
 - Detalles por ejecutivo y canal de atención.
 
-### 6. [Horas Extra Reporte – DINERO.pdf](./Horas%20Extra%20Reporte%20%E2%80%93%20DINERO.pdf)
+### 6. [Horas Extra Reporte – DINERO.pdf](./Horas%20Extra%20Reporte%20-%20DINERO.pdf)
 - Análisis del pago por horas extra.
 - Comparación entre áreas y presupuestos asignados.
 
