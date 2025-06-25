@@ -15,7 +15,7 @@ Portafolio de dashboards interactivos desarrollados con Power BI, orientados al 
 - Tiempo promedio de atención y tasa de rechazo.
 
 ### 3. [Demanda Emisión – Pacífico.pdf](./Demanda%20Emisión%20-%20Pacífico.pdf)
-- Visualización de la demanda por producto y canal.
+-  Producción del servicio emisión (Vista de Cliente - Pacífico).
 - Tendencias mensuales y estacionalidad.
 
 ### 4. [ErroresCriticos.pdf](./ErroresCriticos.pdf)
@@ -23,12 +23,12 @@ Portafolio de dashboards interactivos desarrollados con Power BI, orientados al 
 - Alertas y análisis por proceso.
 
 ### 5. [GC Emisión Salud.pdf](./GC%20Emisi%C3%B3n%20Salud.pdf)
-- Gestión de cotizaciones y emisión de pólizas de salud.
-- Detalles por ejecutivo y canal de atención.
+- Producción del servicio emisión (Vista de NttData).
+- Detalles canal de atención.
 
 ### 6. [Horas Extra Reporte – DINERO.pdf](./Horas%20Extra%20Reporte%20-%20DINERO.pdf)
 - Análisis del pago por horas extra.
-- Comparación entre áreas y presupuestos asignados.
+- Comparación entre áreas.
 
 ### 7. [Nueva Asistencia.pdf](./Nueva%20Asistencia.pdf)
 - Control de asistencia del personal.
