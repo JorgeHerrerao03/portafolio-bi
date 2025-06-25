@@ -38,6 +38,10 @@ Portafolio de dashboards interactivos desarrollados con Power BI, orientados al 
 - Gestión documental de SCTR y cartas laborales.
 - Estado de envío y pendientes por unidad.
 
+### 9. [Producción Liquidación.pdf](./POWER%20BI%20CORL.pdf)
+- Gestión documental de SCTR y cartas laborales.
+- Estado de envío y pendientes por unidad.
+
 ---
 
 ## 💡 Sobre mí
