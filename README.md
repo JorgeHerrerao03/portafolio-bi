@@ -42,7 +42,9 @@ Portafolio de dashboards interactivos desarrollados con Power BI, orientados al 
 
 ## 💡 Sobre mí
 
-Soy analista de datos con experiencia en automatización, visualización y desarrollo de soluciones BI. Este portafolio representa parte de mi trabajo aplicado a escenarios empresariales reales.
+Soy analista de datos con experiencia en automatización, creación de programas en entornos Microsoft, visualización de datos y desarrollo de soluciones de Business Intelligence. Este portafolio representa parte de mi trabajo aplicado a escenarios empresariales reales en sectores como salud, seguros y servicios administrativos.
+Cuento con habilidades en la administración y uso de servidores de bases de datos como SQL Server y MongoDB, así como en herramientas de gestión y seguimiento como Jira, lo que me permite implementar soluciones integrales que abarcan desde la extracción hasta el análisis de datos.
+Actualmente, vengo ampliando mis competencias técnicas explorando entornos de infraestructura como AWS y herramientas de contenedorización como Docker, con el objetivo de robustecer mi perfil en entornos de despliegue y escalabilidad de soluciones analíticas.
 
 📬 Contacto: jorgel.herrera.02.05@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/jorge-h-988342232
