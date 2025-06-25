@@ -7,7 +7,7 @@ Portafolio de dashboards interactivos desarrollados con Power BI, orientados al 
 ## 📁 Reportes disponibles
 
 ### 1. [CALIDAD PCS-EPS.pdf](./CALIDAD%20PCS-EPS.pdf)
-- Indicadores de calidad en la atención de EPS.
+- Indicadores de calidad en la atención de EPS y PCS.
 - Análisis por proveedor, fecha y tipo de observación.
 
 ### 2. [Control de reembolsos.pdf](./Control%20de%20reembolsos.pdf)
