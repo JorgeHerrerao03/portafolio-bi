@@ -14,7 +14,7 @@ Portafolio de dashboards interactivos desarrollados con Power BI, orientados al 
 - Seguimiento de solicitudes de reembolso.
 - Tiempo promedio de atención y tasa de rechazo.
 
-### 3. [Demanda Emisión – Pacífico.pdf](./Demanda%20Emisi%C3%B3n%20%E2%80%93%20Pac%C3%ADfico.pdf)
+### 3. [Demanda Emisión – Pacífico.pdf](./Demanda%20Emisión%20-%20Pacífico.pdf)
 - Visualización de la demanda por producto y canal.
 - Tendencias mensuales y estacionalidad.
 
