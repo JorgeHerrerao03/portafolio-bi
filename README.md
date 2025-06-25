@@ -45,6 +45,6 @@ Portafolio de dashboards interactivos desarrollados con Power BI, orientados al 
 Soy analista de datos con experiencia en automatización, visualización y desarrollo de soluciones BI. Este portafolio representa parte de mi trabajo aplicado a escenarios empresariales reales.
 
 📬 Contacto: jorgel.herrera.02.05@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/jorgelherrera](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+🔗 LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
 ---
