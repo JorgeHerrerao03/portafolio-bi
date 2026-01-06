@@ -1,6 +1,6 @@
 # 📊 Portafolio BI - Jorge Herrera
 
-Portafolio de dashboards interactivos desarrollados con Power BI, orientados al análisis de datos en contextos reales de salud, seguros y servicios administrativos.
+En este portafolio encontrarás dashboards interactivos desarrollados con Power BI, orientados al análisis de datos en contextos reales de salud, seguros y servicios administrativos durante mi tiempo trabajando en el proyecto Pacífico - NttData
 
 ---
 
@@ -46,11 +46,13 @@ Portafolio de dashboards interactivos desarrollados con Power BI, orientados al 
 
 ## 💡 Sobre mí
 
-Soy analista de datos con experiencia en automatización (automate y python), creación de programas en entornos Microsoft, visualización de datos y desarrollo de soluciones de Business Intelligence. Este portafolio representa parte de mi trabajo aplicado a escenarios empresariales reales en sectores como salud, seguros y servicios administrativos.
+Soy Analista Business Intelligence con experiencia en análisis de datos, automatización de procesos y desarrollo de soluciones en Power Platform, orientadas a la toma de decisiones y al control operativo. He participado en el diseño, desarrollo y soporte de sistemas de control operativo que integran Power BI, Power Apps, Power Automate, Python y RPA, aplicados a escenarios empresariales reales en contextos de gestión operativa y administrativa.
 
-Cuento con habilidades en la administración y uso de servidores de bases de datos como SQL Server y MongoDB, así como en herramientas de gestión y seguimiento como Jira, lo que me permite implementar soluciones integrales que abarcan desde la extracción hasta el análisis de datos.
+Cuento con experiencia en la gestión, modelado y análisis de datos, utilizando tecnologías como SQL Server, MongoDB, Dataverse y SharePoint, así como en la automatización de reportes, visualización de indicadores y seguimiento operativo en Power BI, fortaleciendo la trazabilidad, calidad y confiabilidad de la información.
 
-Actualmente, vengo ampliando mis competencias técnicas explorando entornos de infraestructura como AWS y herramientas de contenedorización como Docker, con el objetivo de robustecer mi perfil en entornos de despliegue y escalabilidad de soluciones analíticas.
+Asimismo, realizo gestión operativa de servidores virtuales que soportan procesos automatizados y analíticos, aplicando buenas prácticas de seguridad de datos en el desarrollo y operación de soluciones, incluyendo control de accesos, manejo adecuado de credenciales y protección de información sensible. Complemento este trabajo con herramientas de gestión como Jira, facilitando la documentación, seguimiento y mejora continua de iniciativas de BI y automatización.
+
+Actualmente, continúo fortaleciendo mi perfil técnico explorando infraestructura en la nube (AWS) y contenedorización con Docker, con especial interés en seguridad de datos y entornos analíticos, con el objetivo de evolucionar hacia soluciones de Business Intelligence más robustas, seguras y escalables.
 
 📬 Contacto: jorgel.herrera.02.05@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/jorge-h-988342232
